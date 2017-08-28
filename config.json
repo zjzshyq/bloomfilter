@@ -1,0 +1,6 @@
+{
+	"mongo_url":"mongodb://10.8.8.22:27017",
+	"redis_url":"redis://10.8.8.10:6379/11",
+	"reload_history_no":1,
+	"write_history_no":1
+}
